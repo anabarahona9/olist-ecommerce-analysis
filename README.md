@@ -1,7 +1,7 @@
 # Olist E-Commerce Performance Analysis | 2016-2018
 ![Dashboard Preview](dashboard_preview.png)
 
-## 🇺🇸 English
+## English
 
 ### Overview
 End-to-end data analysis project using a real Brazilian e-commerce dataset (Olist) with over **100,000 orders** and **1.2 million rows** across 9 relational tables. The project covers the full data analytics workflow: ETL, relational database design, SQL analysis, and interactive dashboard.
@@ -52,7 +52,7 @@ olist-ecommerce-analysis/
 
 ---
 
-## 🇪🇸 Español
+## Español
 
 ### Descripción
 Proyecto de análisis de datos end-to-end usando el dataset real de e-commerce brasileño Olist, con más de **100,000 órdenes** y **1.2 millones de filas** distribuidas en 9 tablas relacionales. El proyecto cubre el flujo completo de trabajo analítico: ETL, diseño de base de datos relacional, análisis SQL y dashboard interactivo.
