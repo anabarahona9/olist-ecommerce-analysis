@@ -1,4 +1,5 @@
 # Olist E-Commerce Performance Analysis | 2016-2018
+![Dashboard Preview](dashboard_preview.png)
 
 ## 🇺🇸 English
 
