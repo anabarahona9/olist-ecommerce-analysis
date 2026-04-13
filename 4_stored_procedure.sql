@@ -33,7 +33,6 @@ END;
 
 EXEC sp_GetCategoryDeepDive @CategoryName = 'perfumery'
 		
-DROP PROCEDURE sp_Get_state_performance;
-DROP PROCEDURE sp_Get_Category_deep_dive;
+
 
 
